@@ -1,0 +1,31 @@
+body {
+  font-family: Georgia, serif;
+  margin: 40px auto;
+  max-width: 850px;
+  background-color: #fefefe;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  border-bottom: 3px solid #6c63ff;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: #4b47e0;
+}
+
+ul li {
+  background: #f2f3fc;
+  padding: 10px;
+  margin: 8px 0;
+  border-left: 5px solid #4b47e0;
+  border-radius: 6px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
